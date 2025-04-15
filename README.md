@@ -15,5 +15,5 @@ Compétences acquises :
 - Création de tableaux croisés dynamiques avec des segments pour une navigation facile.
 - Création de graphiques dynamiques et tableaux de bord interactifs.
 
-  
+  Voici le tableau de bord final. vous pouvez le telecharger (Dashboard.xlsx)
 ![Capture d’écran 2025-04-13 à 18 11 19](https://github.com/user-attachments/assets/ddce17cc-cfdb-4d8b-b78b-798a58afd74e)
