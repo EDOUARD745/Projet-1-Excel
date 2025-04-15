@@ -14,3 +14,6 @@ Compétences acquises :
 - Formules Excel essentielles : SOMME, SOMME.SI, MOYENNE, RECHERCHEV, INDEX, EQUIV.
 - Création de tableaux croisés dynamiques avec des segments pour une navigation facile.
 - Création de graphiques dynamiques et tableaux de bord interactifs.
+
+  
+![Capture d’écran 2025-04-13 à 18 11 19](https://github.com/user-attachments/assets/ddce17cc-cfdb-4d8b-b78b-798a58afd74e)
